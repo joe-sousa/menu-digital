@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">APP CARDÁPIO ONLINE</string>
+    <string name="text_title_label">Selecione seu pedido abaixo marcando-o ou desmarcando-o</string>
+    <string name="text_appetizers">ENTRADA</string>
+    <string name="text_potatoes">Batata Frita</string>
+    <string name="text_salmon_checkbox">Bolinha de salmão</string>
+    <string name="text_potatoes_price">R$28.90</string>
+    <string name="text_salmon_price">R$65.90</string>
+    <string name="text_shrimp">Camarão Crocante</string>
+    <string name="text_shrimp_price">R$96.90</string>
+    <string name="text_squid">Lula a Dorê</string>
+    <string name="text_squid_price">R$39.90</string>
+    <string name="text_dishes">PRATOS</string>
+    <string name="text_lobster">Lagosta Gratinada</string>
+    <string name="text_chicken">Frango Grelhado</string>
+    <string name="text_steak">Picanha Argentina</string>
+    <string name="text_fillet">Filé Mignon</string>
+    <string name="text_fillet_price">R$159.90</string>
+    <string name="text_drinks">BEBIDAS</string>
+    <string name="text_soda">Cajuina São Geraldo</string>
+    <string name="text_cajuina_price">R$9.90</string>
+    <string name="text_juice">Suco de Graviola</string>
+    <string name="text_juice_price">R$4.90</string>
+    <string name="text_lobster_price">R$249.90</string>
+    <string name="text_result">R$0,00</string>
+    <string name="text_button_calculate">Calcular</string>
+    <string name="text_button_order">Fazer pedido</string>
+    <string name="text_steak_price">R$162.90</string>
+    <string name="text_chicken_price">R$39.90</string>
+</resources>
